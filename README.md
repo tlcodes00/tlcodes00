@@ -20,7 +20,7 @@
 
 ### 📚 Currently Exploring
 
-![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=111922)
+![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=111922) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 
 ### Connect with me
