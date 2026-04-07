@@ -14,9 +14,9 @@
 
 ### 🛠️ My Toolkit
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=EBB300) ![React](https://img.shields.io/badge/React-Foundations-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=2185D0) ![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=B7361B)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=EBB300) ![React](https://img.shields.io/badge/React-Basics-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=2185D0) ![HTML5](https://img.shields.io/badge/HTML5-Intermediate-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=B7361B)
 
-![CSS3](https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D5284) ![Git](https://img.shields.io/badge/Git-Competent-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=A9331D) ![Figma](https://img.shields.io/badge/Figma-Basics-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=A22E13)
+![CSS3](https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D5284) ![Git](https://img.shields.io/badge/Git-Basics-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=A9331D) ![Figma](https://img.shields.io/badge/Figma-Basics-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=A22E13)
 
 ### 📚 Currently Exploring
 
