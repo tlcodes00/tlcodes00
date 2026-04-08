@@ -42,7 +42,10 @@
 PENDING UPLOAD
 
 ## Scrimba Courses I have completed:
-PENDING UPLOAD
+-Learn HTML/CSS
+-Learn JavaScript
+-Learn Vue
+-Learn WCAG Practices
 
 ---
 
