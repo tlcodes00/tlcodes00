@@ -1,6 +1,6 @@
 
 
-# Greetings Dear Viewer!
+# hello!
 
 🧠 What I build: Logic-based applications, dynamic e-commerce interfaces, and data-driven web apps using REST APIs.
 
