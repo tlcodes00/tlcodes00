@@ -19,9 +19,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D5284) ![Git](https://img.shields.io/badge/Git-Basics-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=A9331D) ![Figma](https://img.shields.io/badge/Figma-Basics-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=A22E13)
 
 ### 📚 Currently Exploring
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=226622) ![Express.js](https://img.shields.io/badge/Express.js-Learning-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=333333) ![React.js](https://img.shields.io/badge/React.js-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=2185D0)
 
-![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=111922) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2E5471) ![DynamoDB](https://img.shields.io/badge/DynamoDB-Learning-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white&labelColor=2B3A91)
 
 ### Connect with me
 [LinkedIn](https://www.linkedin.com/in/tonyylee/) • [My Scrimba Profile](https://scrimba.com/@tonyylee) • [My Favorite Scrimba Course](https://scrimba.com/frontend-path-c0j) • [I Built This on Scrimba](https://tonysjavacalculator.netlify.app/) • [Portfolio- Pending]()
