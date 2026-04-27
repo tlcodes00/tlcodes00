@@ -8,7 +8,7 @@
 
 🧩 Tech I'm using: JavaScript (ES6+), React, HTML5, CSS3, Git/GitHub, and Figma.
 
-📚 Currently learning: AWS Cloud Foundations (S3, DynamoDB, ECS) and advanced React architecture.
+📚 Currently learning: Expanding my technical expertise in Vue.js, Node.js, Express.js, advanced React.js, SQL, and DynamoDB.
 
 🚀 Fun fact: I love cars and spend my spare time working on them—it’s the perfect way to solve mechanical problems and get away from the screen for a bit.
 
